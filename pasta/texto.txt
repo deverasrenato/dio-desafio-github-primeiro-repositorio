@@ -1,0 +1,24 @@
+ git config --global user.email "renatoveras@msn.com"
+
+
+https://github.com/deverasrenato/dio-desafio-github-primeiro-repositorio
+
+Git Bash na pasta do desktop
+
+$ git clone http....
+
+
+criar pasta e este arquivo de texto pra sincronizar na nuvem
+
+git status - erro indicando que os novos arquivos nao estao no github
+
+git add . #para adicionar atenção ao "." no fim para adiconar todas as alterações feitas.
+
+git commit -m "inclusão no github"
+
+git status
+
+git push origin main
+
+
+
